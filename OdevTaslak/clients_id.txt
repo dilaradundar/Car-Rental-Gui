@@ -1,0 +1,8 @@
+
+Client reports
+
+Client Id - Rented Car Number - Total Paid Money - Rent and return Locations
+
+1 -  1  - 1050.0  İstanbul  İstanbul
+2 -  0  - 0.0
+3 -  0  - 0.0

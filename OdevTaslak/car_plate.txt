@@ -1,0 +1,18 @@
+
+Car reports
+
+Number Plate - Number of rentals - Date
+
+06 DD 630 - 0  -  null  -  null
+06 DB 466 - 0  -  null  -  null
+06 BS  18 - 0  -  null  -  null
+
+34 TD 914 - 1  -  12 12 2020  -  14 12 2020
+34 SP 780 - 0  -  null  -  null
+34 BHJ 110  - 0  -  null  -  null
+34 CBR 732 - 0  -  null  -  null
+
+35 ABC 123 - 0  -  null  -  null
+35 TA 320 - 0  -  null  -  null
+35 BR 750 - 0  -  null  -  null
+
